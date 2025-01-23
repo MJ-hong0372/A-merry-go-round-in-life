@@ -19,7 +19,10 @@
 // 02. 해당 모션 : 각각의 face에 마우스를 올리면 회전이 멈춤
 
 // 03. 해당 모션 : 각각의 face에서 마우스가 떠나가면 회전이 정상적으로 진행
+/* Background-video speed */
+document.querySelector(".speed").playbackRate = 5;
 
+/* marry go round */
 const circle = document.querySelector("#circle"); // 전체 목록 확인
 const articles = circle.querySelectorAll("article"); // 특정 대상 선택하기
 
