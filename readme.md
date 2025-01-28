@@ -1,11 +1,11 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=652EA8&height=200&section=header&text=Welcome&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e60012&height=200&section=header&text=Welcome&fontSize=40&fontColor=ffffff" />
 
 <div align= "center"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=652EA8&width=435&lines=Hello%3F+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=e60012&width=435&lines=Hello%3F+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMJ-hong0372%2FA-merry-go-round-in-life.git&count_bg=%230F0357&title_bg=%23652EA8&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMJ-hong0372%2Fprofile_250109.git&count_bg=%23E60012&title_bg=%239451FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJ-hong0372)](https://github.com/A-merry-go-round-in-life/github-readme-stats)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=652EA8&height=200&section=footer&text=Thank%20You&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e60012&height=200&section=footer&text=Thank%20You&fontSize=40&fontColor=ffffff" />
 
 
 
